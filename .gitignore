@@ -1,0 +1,13 @@
+pids
+*.pid
+*.seed
+
+lib-cov
+
+coverage
+
+.grunt
+
+build/Release
+
+CssDemo/node_modules/*
